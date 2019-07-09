@@ -1,4 +1,4 @@
-package practice.first;
+package practice.first.list;
 
 import java.util.Comparator;
 

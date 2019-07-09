@@ -1,4 +1,4 @@
-package practice.first;
+package practice.first.set;
 
 public class Film implements Comparable<Film> {
     //Константы
